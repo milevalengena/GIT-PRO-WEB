@@ -1,0 +1,68 @@
+body
+
+    h1{
+        color: black;
+        background-color: yellow;
+        text-align: center;
+        font-size: xx-large;
+        font-family: 'Kablammo', cursive;
+        font-family: 'Roboto', sans-serif;
+    }
+    
+    h2{
+        color: yellow;
+        background-color: black;
+        text-align: center; 
+        font-size: xx-large; 
+        font-family: 'Kablammo', cursive;
+        font-family: 'Roboto', sans-serif;
+    }
+    
+    ol{
+        color: black; 
+        text-align: justify;
+        background-color: yellow; 
+        font-size: 30px; 
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    
+    h3{
+        color: black; 
+        text-align: center; 
+        font-size: 30px; 
+        font-family: 'Kablammo', cursive;
+        font-family: 'Roboto', sans-serif;
+    }
+    
+    p{
+        color: black; 
+        text-align: justify;
+        font-size: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;"
+    }
+    
+    ul{
+        color: black; 
+        text-align: justify;
+        background-color: yellow; 
+        font-size: 20px; 
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    }
+
+    a{
+        display: inline-block;
+        width: 100px;
+        height: 25px;
+        border: 2px black;
+        background-color: yellow;
+        border-radius: 25px;
+        text-align: center;
+    }
+
+    #subir{
+        position: sticky;
+        bottom: 100px;
+        right: 20px;
+    }
+
+   
