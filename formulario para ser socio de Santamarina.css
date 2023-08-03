@@ -1,0 +1,31 @@
+body{
+    background-color: yellow;
+}
+
+h3{
+    border: solid black;
+}
+
+.punto{
+    margin: 30px;
+}
+
+h1{
+    text-align: center;
+}
+
+.socio{
+    text-align: right;
+}
+
+.sexo{
+    margin: 30px;
+}
+
+.documento{
+    margin: 30px;
+}
+
+.estado{
+    margin: 30px;
+}
